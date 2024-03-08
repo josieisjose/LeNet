@@ -30,3 +30,4 @@
 ### 准确率 
 ![image](https://github.com/josieisjose/LeNet/blob/main/LeNet/runs/acc.png)
 ### 损失   
+![image](https://github.com/josieisjose/LeNet/blob/main/LeNet/runs/loss.png)
