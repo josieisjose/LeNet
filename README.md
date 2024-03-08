@@ -27,5 +27,6 @@
 3. 默认使用MNIST数据集
 4. 默认使用GPU进行训练
 ## 结果展示  
-### 准确率  
+### 准确率 
+![image](https://github.com/josieisjose/LeNet/blob/main/LeNet/runs/acc.png)
 ### 损失   
