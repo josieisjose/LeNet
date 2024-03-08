@@ -10,9 +10,7 @@
 ```
 │  README.md          //帮助文档
 │  LeNet.py  
-├─data                //下载or存放数据集的文件
-│  ├─FashionMNIST  
-│  │  └─raw  
+├─data                //下载or存放数据集的文件 
 │  │          
 │  └─MNIST  
 │      └─raw  
